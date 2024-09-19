@@ -23,3 +23,7 @@
 hs_err_pid*
 replay_pid*
 /.metadata/
+/HRMCMS/src/main/resources/application_BACKUP_1864.properties
+/HRMCMS/src/main/resources/application_BASE_1864.properties
+/HRMCMS/src/main/resources/application_LOCAL_1864.properties
+/HRMCMS/src/main/resources/application_REMOTE_1864.properties
